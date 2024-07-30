@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "error"
+  },
+  "extends": [
+    "@rocketseat/eslint-config/react"
+  ]
+}
